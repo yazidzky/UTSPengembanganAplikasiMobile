@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Mesen Makanan</string>
+
+    <!-- MainActivity -->
+    <string name="title_mesen_makanan">Mesen Makanan</string>
+    <string name="subtitle_cycle">Get a track of your cycle</string>
+    <string name="btn_start_now">Start now</string>
+
+    <!-- SignupActivity -->
+    <string name="title_signup">Sign up</string>
+    <string name="subtitle_signup">Unlock the secrets &amp; predict your cycle with the most intuitive cycle tracking app</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+
+    <!-- LoginActivity -->
+    <string name="title_login">Login User</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login_action">Login</string>
+    <string name="toast_login_success">Login Success</string>
+
+    <!-- RegisterActivity -->
+    <string name="title_register">Register</string>
+    <string name="hint_nama_lengkap">Nama Lengkap</string>
+    <string name="btn_register_action">Register</string>
+    <string name="toast_register_success">Register Success</string>
+
+    <!-- HomeActivity -->
+    <string name="halo_user">Halo, %s</string>
+    <string name="subjudul_makanan">Makanan</string>
+    <string name="btn_kirim">Kirim</string>
+    <string name="makanan_cimol">Cimol asli Bandung adalah makanan dari tepung dan rasanya pedas</string>
+    <string name="makanan_kicimpring">Kicimpring Bandung adalah makanan dari tepung dan rasanya gurih dengan bumbu khas Bandung</string>
+
+    <!-- OrderActivity -->
+    <string name="pesanan_saya">Pesanan saya:</string>
+    <string name="toast_pesanan_dikirim">Pesanan dikirim!</string>
+
+    <!-- AddressActivity -->
+    <string name="title_alamat_pengiriman">Alamat Pengiriman</string>
+    <string name="hint_alamat">Alamat</string>
+    <string name="hint_patokan">Patokan alamat lengkap</string>
+    <string name="btn_order_kirim">Order dan Kirim</string>
+    <string name="toast_pesanan_dikirim_progress">Pesanan sedang dikirim...</string>
+
+    <!-- ConfirmationActivity -->
+    <string name="message_terima_kasih">Terima kasih sudah memesan dan mohon tunggu di lokasi sampai kurir mengirimkan pesanan anda.</string>
+    <string name="toast_pesanan_selesai">Pesanan selesai dikirim.</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_order">Order</string>
+    <string name="nav_profile">Profile</string>
+    <string name="mesen_makanan">Mesen Makanan</string>
+    <string name="get_a_track_of_your_cycle">Get a track of your cycle</string>
+    <string name="start_now">Start now</string>
+    <string name="alamat_pengiriman">Alamat Pengiriman</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="patokan_alamat_lengkap">Patokan alamat lengkap</string>
+    <string name="order_dan_kirim">Order dan Kirim</string>
+    <string name="kicimpring_bandung_adalah_makanan_dari_tepung_dan_rasanya_gurih_dengan_bumbu_khas_bandung">Kicimpring Bandung adalah makanan dari tepung dan rasanya gurih dengan bumbu khas Bandung</string>
+    <string name="kirim">Kirim</string>
+    <string name="cimol_asli_bandung_adalah_makanan_dari_tepung_dan_rasanya_pedas">Cimol asli Bandung adalah makanan dari tepung dan rasanya pedas</string>
+    <string name="makanan">Makanan</string>
+    <string name="halo_nama">Halo, Nama</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login_user">Login User</string>
+    <string name="register">Register</string>
+    <string name="terima_kasih_sudah_memesan_dan_mohon_tunggu_di_lokasi_sampai_kurir_mengirimkan_pesanan_anda">Terima kasih sudah memesan dan mohon tunggu di lokasi sampai kurir mengirimkan pesanan anda.</string>
+    <string name="combro_asli_bandung_adalah_makanan_dari_tepung_dan_rasanya_pedas">Combro asli Bandung adalah makanan dari tepung dan rasanya pedas</string>
+    <string name="batagor_bandung_adalah_makanan_dari_tepung_dan_rasanya_gurih_dengan_bumbu_kacang">Batagor Bandung adalah makanan dari tepung dan rasanya gurih dengan bumbu kacang</string>
+    <string name="seblak_khas_bandung_dengan_rasa_pedas_dan_gurih">Seblak khas Bandung dengan rasa pedas dan gurih</string>
+    <string name="surabi_bandung_manis_dengan_topping_oncom_atau_kinca_gula_merah">Surabi Bandung manis dengan topping oncom atau kinca gula merah</string>
+    <string name="cilok_kenyal_berbumbu_kacang_pedas_khas_bandung">Cilok kenyal berbumbu kacang pedas khas Bandung</string>
+    <string name="cimol_goreng_renyah_di_luar_kenyal_di_dalam">Cimol goreng renyah di luar, kenyal di dalam</string>
+    <string name="cireng_isi_ayam_pedas_favorit_anak_muda_bandung">Cireng isi ayam pedas favorit anak muda Bandung</string>
+    <string name="cuanki_hangat_berkuah_gurih_dan_tahu_isi_khas_bandung">Cuanki hangat berkuah gurih dan tahu isi khas Bandung</string>
+    <string name="lotek_sayur_dengan_bumbu_kacang_khas_sunda">Lotek sayur dengan bumbu kacang khas Sunda</string>
+    <string name="peuyeum_khas_bandung_tape_singkong_manis_dan_lembut">Peuyeum khas Bandung, tape singkong manis dan lembut</string>
+    <string name="sign_up">Sign up</string>
+    <string name="unlock_the_secrets_amp_predict_your_cycle_with_the_most_intuitive_cycle_tracking_app">
+    Unlock the secrets &amp;\npredict your cycle with the most \nintuitive cycle tracking app
+</string>
+
+    <string name="mesen_nmakanan">Mesen\nMakanan</string>
+</resources>
